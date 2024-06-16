@@ -1,0 +1,7 @@
+scikit-learn
+opencv-python
+ultralytics
+ttkbootstrap
+numpy
+pandas
+mediapipe
