@@ -26,7 +26,7 @@
 
 ## Do exercisee to improve focus
 * When user had detected distracted, it will sugest to do a simple exercise
-*![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/0b8ab95b-0371-4e9f-a009-6c7dd1ba6455)
+* ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/0b8ab95b-0371-4e9f-a009-6c7dd1ba6455)
 
 * The exercise here is Stretch, camera will use mediapile and calcluate angle of upper arm and forearm to count the number of times you perform the exercise.
 
