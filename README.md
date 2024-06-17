@@ -14,8 +14,7 @@
 ### 2. Camera detect distracted
 * Camera use YOLOv8 to monitor your progress by dectect your face, if detect distracted, time will be paused
   
-| ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/48b748aa-adc9-44bf-825c-494842b9c83c) | ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/4665ea0d-78b1-43a6-b5a4-e3b04081e415)
- |
+| ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/48b748aa-adc9-44bf-825c-494842b9c83c) | ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/4665ea0d-78b1-43a6-b5a4-e3b04081e415) |
 |:------------------------------:|:------------------------------:|
 | Boundingbox of Yolov8 to monitor user            | YOLOv8 detect user's distracted and send a massage box         |
 
