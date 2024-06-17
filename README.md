@@ -24,7 +24,7 @@
 |:------------------------------:|:------------------------------:|:------------------------------:|
 | Camera detect user have one time distracted             | Massage when u have many times distracted in a progress            | Long break time instead of short break when           |
 
-## Do exercisee to improve focus
+### 3. Do exercisee to improve focus
 * When user had detected distracted, it will sugest to do a simple exercise
 
 ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/0b8ab95b-0371-4e9f-a009-6c7dd1ba6455)
@@ -37,7 +37,11 @@
 | Do stretch exercise base tutorial on screen           | When you do reach the required amount, it will back to Pomodoro    |
 
 
-
+## How to use it?
+### Clone this git:
+```python
+git clone https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted.git
+```
 
 
 
