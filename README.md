@@ -43,5 +43,14 @@
 git clone https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted.git
 ```
 
+### Install requirement library:
+```python
+pip install -r requirements.txt
+```
+
+* Run myapp:
+```python
+python myapp.py
+```
 
 
