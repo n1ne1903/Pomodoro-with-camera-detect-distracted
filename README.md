@@ -19,9 +19,9 @@
 | Boundingbox of Yolov8 to monitor user            | YOLOv8 detect user's distracted and send a massage box         |
 
 *End of a progress it will anouce in this progress how many times do we lose focus and if you have more than 5 times in a round it will suggest you to have a long break
-![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/2dba7028-c349-476e-9b73-8c9e9337aa72)
-![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/70bd48c0-aa95-4a92-9f3c-afffd32c587d)
-
+|![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/bb3dcf11-2257-433b-b302-87f9a13ece8d)  |  ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/2dba7028-c349-476e-9b73-8c9e9337aa72) | ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/70bd48c0-aa95-4a92-9f3c-afffd32c587d) |
+|:------------------------------:|:------------------------------:|:------------------------------:|
+| Camera detect user have one time distracted             | Massage when u have many times distracted in a progress            | Long break time instead of short break when           |
 
 
 
