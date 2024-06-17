@@ -14,11 +14,12 @@
 ### 2. Camera detect distracted
 * Camera use YOLOv8 to monitor your progress by dectect your face, if detect distracted, time will be paused
   
-| ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/48b748aa-adc9-44bf-825c-494842b9c83c) | ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/3573f3a5-02f8-4de3-a56c-3eab4c8bac1a) |
+| ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/48b748aa-adc9-44bf-825c-494842b9c83c) | ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/4665ea0d-78b1-43a6-b5a4-e3b04081e415)
+ |
 |:------------------------------:|:------------------------------:|
 | Boundingbox of Yolov8 to monitor user            | YOLOv8 detect user's distracted and send a massage box         |
 
-*End of a progress it will anouce in this progress how many times do we lose focus and if you
+*End of a progress it will anouce in this progress how many times do we lose focus and if you have more than 5 times in a round it will suggest you to have a long break
 ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/2dba7028-c349-476e-9b73-8c9e9337aa72)
 ![image](https://github.com/n1ne1903/Pomodoro-with-camera-detect-distracted/assets/141629048/70bd48c0-aa95-4a92-9f3c-afffd32c587d)
 
